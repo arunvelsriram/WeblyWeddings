@@ -3,7 +3,7 @@ A social networking site developed in 24-hours using Java EE technologies for a 
 
 **WEBLYWEDDINGS IS NOT A MATRIMONIAL WEBSITE :P**
 
-WeblyWeddings is a way of inviting guests to participate in wedding functions online. A wedding function will have several events, photos etc. Bride or Bride groom create a wedding in WeblyWeddings and provide the Wedding ID to the guests through the invitation. Guests login to WeblyWedings and know about the wedding. They can view, like the photos and even make a comment.
+WeblyWeddings is a way of inviting guests to wedding functions online. A wedding function will have several events, photos etc. Bride or Bridegroom creates a wedding in WeblyWeddings and provides the Wedding ID to the guests through the invitation. Guests can login to WeblyWedings and know more information about the wedding. They can view, like the photos and even make a comment.
 
 ## Usage
 * The project was developed in Eclipse. So just import the project in to Eclipse.

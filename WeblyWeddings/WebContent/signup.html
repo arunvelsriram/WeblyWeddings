@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<link type="text/css" rel="stylesheet" href="css/bootstrap.css"></link>
+<link type="text/css" rel="stylesheet" href="css/custom1.css"></link>
+</head>
+<body>
+	<article class="row container">
+		<div class="col-lg-4"></div>
+			<div class="col-lg-4">
+				<form role="form" id="signup" method="post" action="SignUpController">
+					<div class="form-group">
+						<label for="name">Name</label>
+						<input id="name" name="name" type="text" placeholder="Full Name" class="form-control" required>
+					</div>
+					<div class="form-group">
+						<label for="email">Email</label>
+						<input id="email" name="email" type="text" placeholder="Email" class="form-control" required>
+					</div>
+					<div class="form-group">
+						<label for="password">Password</label>
+						<input id="password" class="form-control" name="password" type="password" placeholder="Password" required>
+					</div>
+					<div class="form-group">
+						<label for="confirmPassword">Confirm Password</label>
+						<input id="confirmPassword" class="form-control" name="confirmPassword" type="password" placeholder="Confirm Password" required>
+					</div>
+					<div class="row">
+						<div class="col-lg-offset-4">
+							<input id="signupBtn" type="submit" value="Sign up" class="btn btn-primary btn-sm">
+						</div>
+					</div>
+				</form>
+			</div>
+		<div class="col-lg-3">
+		</div>
+	</article>
+</body>
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/FormValidation.js"></script>
+</html>

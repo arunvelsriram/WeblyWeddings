@@ -15,3 +15,7 @@ WeblyWeddings is a way of inviting guests to wedding functions online. A wedding
 
 ##  Achievement
 This project was awarded **second prize** by the organizers from Ascendant Technologies.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arunvelsriram/weblyweddings/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
